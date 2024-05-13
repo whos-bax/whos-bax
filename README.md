@@ -6,6 +6,3 @@
 
 ### Link
 - [꿈이 많은 어른 아이](https://whosbax.netlify.app/)
-- [티스토리](https://whothatsme.tistory.com/)
-- [네이버 블로그](https://blog.naver.com/whosbax)
-- [링크드인](https://www.linkedin.com/in/whoamiiii04)
