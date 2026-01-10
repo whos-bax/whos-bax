@@ -1,12 +1,31 @@
+# 박상호 | Product Engineer
+
+> 프론트엔드를 중심으로 백엔드, 인프라, PM까지 — 제품의 처음부터 끝까지 책임집니다.
+
+<br/>
+
+## About
+
+안녕하세요, 끊임없이 새로운 도전과 성장을 추구하는 박상호입니다.
+
+이커머스, 헬스케어, AI 서비스 스타트업 등 다양한 산업 영역에서 웹과 앱 서비스의 개발부터 배포, 운영까지 전 주기를 책임져 왔습니다. 프론트엔드를 중심으로 백엔드, 인프라, PM까지 직무의 경계를 넘나들며 비즈니스 요구사항을 제품으로 구현합니다.
+
+사용자 중심 사고와 빠른 실행력을 바탕으로 MVP를 빠르게 론칭하고 개선해 나가는 데 강점을 가지고 있습니다. 일정 조율, 문서화, 인력 관리 등 중간 관리자의 역할도 수행하며, 팀 전체가 효율적으로 일할 수 있는 환경을 만드는 데 기여해왔습니다.
+
+단순한 기능 개발자가 아닌, 비즈니스 성장과 사용자 가치 실현을 함께 고민하는 프로덕트 중심 개발자입니다.
+
+<br/>
+
 ## Experiences
-- 데이티움, Software Developer (2025.04 ~ )
-- [텐서큐브](https://tensorcube.net), Software Developer (2024.06 ~ 2025.03)
-- [하우투약](https://howtoyak.com/), FrontEnd Developer (2022.08 ~ 2024.03)
 
+| 기간 | 회사 |
+|:---:|:---|
+| 2025.04 ~ | 데이티움 |
+| 2024.07 ~ 2025.03 | [텐서큐브](https://tensorcube.net) |
+| 2022.08 ~ 2024.03 | [하우투약](https://howtoyak.com/) |
 
+<br/>
 
-### Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whos-bax&layout=compact)](https://github.com/whos-bax/github-readme-stats)
+## Links
 
-### Link
-- [꿈이 많은 어른 아이 (https://whoamiii04.netlify.app/)](https://whoamiiii04.netlify.app/)
+[Portfolio](https://whoamiiii04.netlify.app/about) · [LinkedIn](https://www.linkedin.com/in/whoamiiii04/) · [Email](mailto:whoamiiii04@gmail.com)
