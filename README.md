@@ -22,7 +22,7 @@
 
 | 기간 | 회사 |
 |:---:|:---|
-| 2025.04 ~ | 데이티움 |
+| 2025.04 ~ | [데이티움](https://www.linkedin.com/company/datium-corp/) |
 | 2024.07 ~ 2025.03 | [텐서큐브](https://tensorcube.net) |
 | 2022.08 ~ 2024.03 | [하우투약](https://howtoyak.com/) |
 
@@ -30,4 +30,10 @@
 
 ## Links
 
-[Portfolio](https://whoamiiii04.netlify.app/about) · [LinkedIn](https://www.linkedin.com/in/whoamiiii04/) · [Email](mailto:whoamiiii04@gmail.com)
+[Site](https://whoamiiii04.netlify.app/)
+
+[About](https://whoamiiii04.netlify.app/about)
+
+[LinkedIn](https://www.linkedin.com/in/whoamiiii04/)
+
+[Email](mailto:whoamiiii04@gmail.com)
